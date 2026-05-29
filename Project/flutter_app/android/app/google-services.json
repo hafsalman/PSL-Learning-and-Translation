@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164452331074",
+    "project_id": "psl-app-98e9a",
+    "storage_bucket": "psl-app-98e9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164452331074:android:8489dd953a3bb4099907db",
+        "android_client_info": {
+          "package_name": "com.example.psl_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwKmxCI-arwYff8UJ80f5SPBCqI_VoHcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
